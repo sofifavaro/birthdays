@@ -4,8 +4,12 @@ birthdays = {
     'Ada Lovelace': '12/10/1815',
     'Donald Trump': '06/14/1946',
     'Rowan Atkinson': '01/6/1955',
+<<<<<<< HEAD
     'Chiara Govoni' : '30/01/2001', 
     'Sofia Favaro' : '14/11/2000'}
+=======
+    'Chiara Govoni': '30/01/2001}
+>>>>>>> 6eb9d30fb5b1fb6680ba84fdb2708eb8ca36eb92
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
