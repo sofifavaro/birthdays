@@ -27,6 +27,10 @@ def print_birthdays():
         print(name)
 
 def return_birthday(name):
+
+    ''' if the name is in the list it will return the birthdays, 
+	else it will say that the Birthdays is not present '''
+
     if name in birthdays:
         print('{}\'s birthday is {}.'.format(name, birthdays[name]))
     else:
