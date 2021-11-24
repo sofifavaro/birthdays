@@ -19,6 +19,9 @@ birthdays = {
 
 
 def print_birthdays():
+
+'''Print what the function do'''
+
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
     for name in birthdays:
         print(name)
