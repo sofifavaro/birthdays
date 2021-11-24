@@ -7,7 +7,8 @@ birthdays = {
     'Chiara Govoni' : '30/01/2001', 
     'Sofia Favaro' : '14/11/2000',
     'Martina Cassin' : '19/02/2001',
-    'Eleonora Montello' : '27/09/2000'}
+    'Eleonora Montello' : '27/09/2000',
+    'Riccardo Cassin' : '05/11/1997'}
 
 
 def print_birthdays():
