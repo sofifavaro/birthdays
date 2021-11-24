@@ -17,3 +17,4 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 ## Modifications: 
 
 Winx group have tried to modify the file
+Eleonora modified the file
