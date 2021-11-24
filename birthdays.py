@@ -1,6 +1,6 @@
 
 '''
-comment the module goal here
+The code returns birthdays given subject names
 
 '''
 
